@@ -1,3 +1,9 @@
 [submodule "ibex"]
 	path = ibex
 	url = git@github.com:lowRISC/ibex.git
+[submodule "riscv-gnu-toolchain"]
+	path = riscv-gnu-toolchain
+	url = git@github.com:riscv/riscv-gnu-toolchain.git
+[submodule "verilator"]
+	path = verilator
+	url = git@github.com:verilator/verilator.git
