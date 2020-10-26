@@ -7,3 +7,9 @@
 [submodule "verilator"]
 	path = verilator
 	url = git@github.com:verilator/verilator.git
+[submodule "lowrisc-chip"]
+	path = lowrisc-chip
+	url = https://github.com/lowrisc/lowrisc-chip.git
+[submodule "elf2hex"]
+	path = elf2hex
+	url = git@github.com:sifive/elf2hex.git
