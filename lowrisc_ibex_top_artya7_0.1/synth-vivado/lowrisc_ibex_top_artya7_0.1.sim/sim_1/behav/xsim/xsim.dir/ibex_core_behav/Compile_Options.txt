@@ -1,0 +1,1 @@
+-wto "39751c68c4b5455f99a4e977a99ff140" --incr --debug "typical" --relax --mt "8" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "ibex_core_behav" "xil_defaultlib.ibex_core" "xil_defaultlib.glbl" -log "elaborate.log" 

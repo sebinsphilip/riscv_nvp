@@ -1,0 +1,4 @@
+Running: xsim.dir/ibex_core_behav/xsimk -simmode gui -wdb ibex_core_behav.wdb -simrunnum 0 -socket 47563
+Design successfully loaded
+Design Loading Memory Usage: 34448 KB (Peak: 34448 KB)
+Design Loading CPU Usage: 50 ms

@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sebin/Documents/CSA/lowrisc_ibex_top_artya7_0.1/synth-vivado/lowrisc_ibex_top_artya7_0.1.srcs/sources_1/imports/lowrisc_ibex_top_artya7_0.1/src/lowrisc_ibex_ibex_core_0.1/rtl/ibex_core.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ibex_core
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/sebin/Documents/CSA/lowrisc_ibex_top_artya7_0.1/synth-vivado/lowrisc_ibex_top_artya7_0.1.srcs/sim_1/new/test_tb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test_tb
